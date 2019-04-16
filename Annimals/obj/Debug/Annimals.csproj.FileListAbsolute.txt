@@ -1,0 +1,7 @@
+Z:\C#\Advanced\c9_practise\Annimals\Annimals\obj\Debug\Annimals.csprojAssemblyReference.cache
+Z:\C#\Advanced\c9_practise\Annimals\Annimals\obj\Debug\Annimals.csproj.CoreCompileInputs.cache
+Z:\C#\Advanced\c9_practise\Annimals\Annimals\bin\Debug\Annimals.exe.config
+Z:\C#\Advanced\c9_practise\Annimals\Annimals\bin\Debug\Annimals.exe
+Z:\C#\Advanced\c9_practise\Annimals\Annimals\bin\Debug\Annimals.pdb
+Z:\C#\Advanced\c9_practise\Annimals\Annimals\obj\Debug\Annimals.exe
+Z:\C#\Advanced\c9_practise\Annimals\Annimals\obj\Debug\Annimals.pdb
